@@ -1,0 +1,9 @@
+This drink is the simple mix between vodka and orange Juice
+
+Ingredient name: $Vodka$
+Pump Number: #1#
+ML Required: %60%
+
+Ingredient name: $OrangeJuice$
+Pump Number: #2#
+ML Required: %230%

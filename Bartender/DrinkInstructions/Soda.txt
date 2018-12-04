@@ -1,0 +1,5 @@
+This Drink is a simple Soda - (Can also be used for simple one pump activation)
+
+Ingredient name: $Soda$
+Pump Number: #2#
+ML Required: %300%

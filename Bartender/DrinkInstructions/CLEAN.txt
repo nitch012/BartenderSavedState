@@ -1,0 +1,15 @@
+all 3 pumps with 400 ml of Hot(not boiling) water
+
+Ingredient name: $HotWater$
+Pump Number: #3#
+ML Required: %400%
+
+Ingredient name: $HotWaterTwo$
+Pump Number: #1#
+ML Required: %400%
+
+Ingredient name: $HotWaterThree$
+Pump Number: #2#
+ML Required: %400%
+
+

@@ -1,0 +1,6 @@
+Basic Shot of whatever is on pump 1
+
+Ingredient name: $SomeKindOfAlcohol$
+Pump Number: #1#
+ML Required: %45%
+

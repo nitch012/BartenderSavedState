@@ -1,0 +1,18 @@
+This Beverage is a Tasty Moscow Mule
+
+
+Ingredient name: $LimeJuice$
+Pump Number: #3#
+ML Required: %18%
+
+Ingredient name: $Vodka$
+Pump Number: #1#
+ML Required: %60%
+
+Ingredient name: $GingerBeer$
+Pump Number: #2#
+ML Required: %170%
+
+Note: Drink instruction pages are far less sensitive and can have multiple notes and changes made
+as long as the instructions between the activation keys are not incorrectly
+formatted. Do Not use protected symbols shown above.

@@ -1,0 +1,10 @@
+This Beverage is a simple Rum and Coke
+
+Ingredient name: $Rum$
+Pump Number: #1#
+ML Required: %44%
+
+Ingredient name: $Coke$
+Pump Number: #2#
+ML Required: %230%
+

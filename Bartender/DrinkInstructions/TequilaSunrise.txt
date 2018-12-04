@@ -1,0 +1,13 @@
+This Beverage is an elegant but simple Tequila Sunrise
+
+Ingredient name: $Tequila$
+Pump Number: #1#
+ML Required: %65%
+
+Ingredient name: $OrangeJuice$
+Pump Number: #2#
+ML Required: %130%
+
+Ingredient name: $Grenadine$
+Pump Number: #3#
+ML Required: %18%

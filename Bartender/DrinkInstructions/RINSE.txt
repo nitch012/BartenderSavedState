@@ -1,0 +1,14 @@
+softly rinses all 3 pumps with 200 ml of cool water
+
+Ingredient name: $Water$
+Pump Number: #3#
+ML Required: %200%
+
+Ingredient name: $WaterTwo$
+Pump Number: #1#
+ML Required: %200%
+
+Ingredient name: $WaterThree$
+Pump Number: #2#
+ML Required: %200%
+

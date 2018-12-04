@@ -1,0 +1,9 @@
+This Drink is a Simple Shirley Temple Kiddy Cocktail
+
+Ingredient name: $Grenadine$
+Pump Number: #3#
+ML Required: %60%
+
+Ingredient name: $Sprite$
+Pump Number: #2#
+ML Required: %230%

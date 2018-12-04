@@ -1,0 +1,10 @@
+A simple Gin and Tonic
+
+Ingredient name: $Gin$
+Pump Number: #1#
+ML Required: %60%
+
+Ingredient name: $Tonic$
+Pump Number: #2#
+ML Required: %120%
+

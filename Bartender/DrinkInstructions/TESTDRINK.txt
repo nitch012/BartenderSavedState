@@ -1,0 +1,36 @@
+
+Ingredient name: $LimeJuice$
+Pump Number: #3#
+ML Required: %1800%
+
+Ingredient name: $Vodka$
+Pump Number: #1#
+ML Required: %620%
+
+Ingredient name: $GingerBeer$
+Pump Number: #2#
+ML Required: %170%
+
+Ingredient name: $LimeJuice$
+Pump Number: #3#
+ML Required: %183%
+
+Ingredient name: $Vodka$
+Pump Number: #1#
+ML Required: %60%
+
+Ingredient name: $GingerBeer$
+Pump Number: #2#
+ML Required: %1720%
+
+Ingredient name: $LimeJuice$
+Pump Number: #3#
+ML Required: %128%
+
+Ingredient name: $Vodka$
+Pump Number: #1#
+ML Required: %63333330%
+
+Ingredient name: $GingerBeer$
+Pump Number: #2#
+ML Required: %170%

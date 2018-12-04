@@ -1,0 +1,9 @@
+Ingredient name: $Gin$
+Pump Number: #1#
+ML Required: %200%
+Ingredient name: $Soda$
+Pump Number: #2#
+ML Required: %90%
+Ingredient name: $LimeJuice $
+Pump Number: #3#
+ML Required: %10%

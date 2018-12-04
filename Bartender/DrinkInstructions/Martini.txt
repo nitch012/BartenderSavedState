@@ -1,0 +1,15 @@
+James bond style martini
+
+Ingredient name: $DryVermouth$
+Pump Number: #1#
+ML Required: %20%
+
+Ingredient name: $Gin$
+Pump Number: #2#
+ML Required: %135%
+
+
+
+Note: Drink instruction pages are far less sensitive and can have multiple notes and changes made
+as long as the instructions between the activation keys are not incorrectly
+formatted. Do Not use protected symbols shown above.

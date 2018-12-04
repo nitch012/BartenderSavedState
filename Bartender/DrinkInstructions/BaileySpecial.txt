@@ -1,0 +1,12 @@
+This is the Bailey Special: Half Wine Half fruit juice
+
+Dont be surprised if people make fun of you for drinking this
+
+Ingredient name: $Wine$
+Pump Number: #1#
+ML Required: %150%
+
+Ingredient name: $FruitJuice$
+Pump Number: #2#
+ML Required: %150%
+

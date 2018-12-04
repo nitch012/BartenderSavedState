@@ -1,0 +1,18 @@
+A drink ive never heard of but it sounds fancy so what the heck
+
+Ingredient name: $Cognac$
+Pump Number: #1#
+ML Required: %60%
+
+Ingredient name: $OrangeLiquer$
+Pump Number: #2#
+ML Required: %30%
+
+Ingredient name: $LemonJuice$
+Pump Number: #3#
+ML Required: %25%
+
+
+Note: Drink instruction pages are far less sensitive and can have multiple notes and changes made
+as long as the instructions between the activation keys are not incorrectly
+formatted. Do Not use protected symbols shown above.

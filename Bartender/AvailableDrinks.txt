@@ -1,0 +1,19 @@
+@@@ NOTE: notes can be made between data points but not on new lines @@@
+~RumandCoke~!2
+~TequilaSunrise~!3
+~Soda~!1
+~Screwdriver~!2
+~ShirleyTemple~!2
+~MoscowMule~!3
+~BaileySpecial~!2
+~JazzyBaileySpecial~!3
+~Shot~!1
+~GinAndTonic~!2
+~Sidecar~!3
+~Mimosa~!2
+~Martini~!2
+~RINSE~!3
+~CLEAN~!3
+~Gimlet~!3
+~Manhattan~!3
+~BlackRussian~!2
